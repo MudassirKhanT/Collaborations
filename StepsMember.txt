@@ -1,0 +1,4 @@
+To get all the data again
+    git switch main
+    git fetch
+    git pull
