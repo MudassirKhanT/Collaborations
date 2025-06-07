@@ -1,0 +1,6 @@
+For Last Step Of Merging:-
+    git fetch - You will get all the working members branches
+    git switch branch_name - switch to that branch and verify the code written by dev
+    git switch main
+    git merge branch_name
+After this the data will be present at github and leader 
